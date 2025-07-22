@@ -27,6 +27,8 @@ localStorage.removeItem("username");
 ``` javascript
 localStorage.clear();
 ```
+### 🗝️ __key(index)__ – 인덱스(index)에 해당하는 키를 받아옵니다.
+### 💠 __length__ – 저장된 항목의 개수를 얻습니다.
 ***
 ## ⭐ 객체 사용하기
 localStorage는 문자열만 저장되기 때문에
