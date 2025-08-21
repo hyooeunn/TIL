@@ -37,11 +37,11 @@ localStorage는 문자열만 저장되기 때문에
 
 ``` javascript
 // 객체 불러오기
-const user = {name: "효은", avg: 17}
+const user = {name: "효은", age: 17}
 localStorage.setItem("user", JSON.stringify("user"));
 
 // 객체 불러오기
 const savedUser = JSON.parse(localStorage.getItem("user"));
 console.log(savedUser.name);
-console.log(savedUser.avg);
+console.log(savedUser.age);
 ```
