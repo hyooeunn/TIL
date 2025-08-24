@@ -6,7 +6,7 @@ const a = 10;
 const b = 20;
 const c = 20;
 
-// ☝️ if -------
+// if -------
 if (a < b) {
   console.log("a가 더 작아요!");
 }
@@ -14,14 +14,14 @@ if (a < b) {
 // 이렇게도 작성 가능!
 if (a < b) console.log("a가 더 작아요!");
 
-// ✌️ else ------
+// else ------
 if (a < b) {
   console.log("a가 더 작아요!");
 } else {
   console.log("거짓!");
 }
 
-// 🤟 else if ------
+// else if ------
 if (a < b) {
   console.log("a가 더 작아요!");
 } else if (b === c) {
