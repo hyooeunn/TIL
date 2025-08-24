@@ -1,4 +1,4 @@
-# 📌 switch
+# 📌 switch - 조건문
 
 ``` javascript
 const number = 10;
