@@ -64,3 +64,4 @@ switch (number % 2) {
     break;
 }
 // 결과: 짝수
+```
