@@ -85,6 +85,7 @@ console.log(b);
 
 ***
 
+## 지역 변수와 전역 변수
 ``` javascript
 const b = 10; // 전역 변수
 
