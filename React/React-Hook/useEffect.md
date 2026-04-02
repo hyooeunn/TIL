@@ -16,6 +16,12 @@
 ```js
 useEffect(function, deps)
 ```
+``` js
+useEffect(() => {
+  function
+  // TODO, Callback 함수
+}, [deps])
+```
 
 `function`: 수행하고자 하는 작업
 
